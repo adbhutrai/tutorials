@@ -316,7 +316,7 @@
 		<kryo.version>4.0.0</kryo.version>
 		<protobuf-java-format.version>1.4</protobuf-java-format.version>
 		<protobuf-java.version>3.1.0</protobuf-java.version>
-		<commons-lang3.version>3.5</commons-lang3.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
 		<xstream.version>1.4.9</xstream.version>
 
 		<!-- util -->
@@ -331,7 +331,7 @@
 
 		<json.path.version>2.2.0</json.path.version>
 		
-		<pact.version>3.5.11</pact.version>
+		<pact.version>3.5.14</pact.version>
 	</properties>
 
 </project>
